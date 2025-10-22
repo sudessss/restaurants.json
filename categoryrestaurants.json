@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "1",
+    "name": "Elite Fine Dining",
+    "neighborhood": "Beşiktaş",
+    "address": "Çırağan Caddesi No:10",
+    "phone": "+90 212 123 45 67",
+    "website": "https://elitefinedining.com",
+    "categories": ["Lüks Restoranlar", "Romantik"],
+    "rating": 4.8,
+    "images": ["https://example.com/image1.jpg"]
+  },
+  {
+    "_id": "2",
+    "name": "Anadolu Kebap",
+    "neighborhood": "Kadıköy",
+    "address": "Moda Caddesi No:5",
+    "phone": "+90 216 987 65 43",
+    "website": "https://anadolukebap.com",
+    "categories": ["Türk Mutfağı", "Aile Dostu"],
+    "rating": 4.5,
+    "images": ["https://example.com/image2.jpg"]
+  }
+]
