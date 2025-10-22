@@ -1,24 +1,75 @@
 [
   {
-    "_id": "1",
-    "name": "Elite Fine Dining",
-    "neighborhood": "Beşiktaş",
-    "address": "Çırağan Caddesi No:10",
-    "phone": "+90 212 123 45 67",
-    "website": "https://elitefinedining.com",
-    "categories": ["Lüks Restoranlar", "Romantik"],
-    "rating": 4.8,
-    "images": ["https://example.com/image1.jpg"]
+    "id": "mikla",
+    "name": "Mikla",
+    "neighborhood": "Beyoğlu / Tepebaşı",
+    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, 34430 Beyoğlu, İstanbul",
+    "phone": "+90 212 293 5656",
+    "website": "https://www.miklarestaurant.com/",
+    "cuisine": ["New Anatolian", "Modern Turkish", "Mediterranean"],
+    "price_level": 4,
+    "rating": 4.6,
+    "opening_hours": "Pzt–Cts 18:00–24:00 (Pazar kapalı, öğle servisi yok)",
+    "description": "Mikla, İstanbul’un en özel rooftop restoranlarından biridir. Modern Türk ve Akdeniz mutfağını bir araya getirerek hem geleneksel hem de yenilikçi tatlar sunar. Şehrin panoramik manzarası eşliğinde lezzetli yemekler deneyimlemek isteyenler için eşsiz bir mekandır. Michelin dereceli bir deneyim sunmasıyla da dikkat çeker.",
+    "tags": ["rooftop", "fine-dining", "manzara", "Michelin"],
+    "images": [
+      "https://images.openai.com/thumbnails/url/fdkFlnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6pzHQPKvXyyfcMM630CstLdrZ0ijQoLnEzMggLL8hPdndNLncOLfUOSTUvVyu2NTQAABAHJRM"
+    ],
+    "coordinates": {
+      "latitude": 41.0361,
+      "longitude": 28.9760
+    },
+    "sources": [],
+    "categories": ["Lüks Restoranlar", "Romantik", "Manzaralı"]
   },
   {
-    "_id": "2",
-    "name": "Anadolu Kebap",
+    "id": "neolokal",
+    "name": "Neolokal",
+    "neighborhood": "Karaköy / Salt Galata",
+    "address": "SALT Galata, Bankalar Avenue, Karaköy, 34420 İstanbul",
+    "phone": "+90 551 447 45 45",
+    "website": "https://www.neolokal.com/",
+    "cuisine": ["Modern Turkish", "Contemporary", "Mediterranean"],
+    "price_level": 3,
+    "rating": 4.3,
+    "opening_hours": "Saatler değişken — web sitesine bakınız (genellikle Sal–Cts akşamları)",
+    "description": "Neolokal, sürdürülebilir ve miras Türk malzemelerine odaklanan çağdaş bir restorandır. Galata manzarası eşliğinde, hem yerel tatları deneyimleyebilir hem de modern sunumlarla farklı bir gastronomi deneyimi yaşayabilirsiniz. Mekân, hem lezzet hem de estetik olarak öne çıkar.",
+    "tags": ["heritage", "sustainable", "view"],
+    "images": [
+      "https://cdn1.spiegel.de/images/image-2724890-galleryV9-vulq-2724890.jpg",
+      "https://media.timeout.com/images/105089141/750/422/image.jpg",
+      "https://www.neolokal.com/wp-content/uploads/2019/05/neolokal-interior.jpg"
+    ],
+    "coordinates": {
+      "latitude": 41.0256,
+      "longitude": 28.9741
+    },
+    "sources": [],
+    "categories": ["Türk Mutfağı", "Manzaralı", "Romantik"]
+  },
+  {
+    "id": "ciya_sofrasi",
+    "name": "Çiya Sofrası",
     "neighborhood": "Kadıköy",
-    "address": "Moda Caddesi No:5",
-    "phone": "+90 216 987 65 43",
-    "website": "https://anadolukebap.com",
-    "categories": ["Türk Mutfağı", "Aile Dostu"],
-    "rating": 4.5,
-    "images": ["https://example.com/image2.jpg"]
+    "address": "Caferağa Mah., Güneşlibahçe Sk. No:43, Kadıköy, 34710 İstanbul",
+    "phone": "+90 216 330 31 90",
+    "website": null,
+    "cuisine": ["Regional Turkish", "Anatolian"],
+    "price_level": 1,
+    "rating": 4.4,
+    "opening_hours": "Pzt–Cts (saatler değişken)",
+    "description": "Çiya Sofrası, Kadıköy’ün simge restoranlarından biridir ve Anadolu’nun zengin mutfak mirasını şehirle buluşturur. Yöresel tarifler ve otantik lezzetler ile hem geleneksel hem de özel tatlar sunar. Uygun fiyatları ile herkesin deneyimleyebileceği bir mekandır.",
+    "tags": ["traditional", "budget-friendly", "regional"],
+    "images": [
+      "https://media.nomadicmatt.com/ciya_istanbul.jpg",
+      "https://www.greatistanbul.com/wp-content/uploads/2016/10/ciya.jpg",
+      "https://blog.turkeyhomes.com/wp-content/uploads/2020/07/ciya-sofrasi-restaurant-kadikoy.jpg"
+    ],
+    "coordinates": {
+      "latitude": 40.9923,
+      "longitude": 29.0276
+    },
+    "sources": [],
+    "categories": ["Türk Mutfağı", "Aile Dostu", "Bütçe Dostu"]
   }
 ]
