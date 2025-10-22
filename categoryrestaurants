@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "1",
+    "name": "Elite Fine Dining",
+    "neighborhood": "Beşiktaş",
+    "address": "Çırağan Caddesi No:10",
+    "phone": "+90 212 123 45 67",
+    "website": "https://elitefinedining.com",
+    "categories": ["Lüks Restoranlar", "Romantik"],
+    "rating": 4.8,
+    "images": ["https://example.com/image1.jpg"]
+  },
+  {
+    "_id": "2",
+    "name": "Anadolu Kebap",
+    "neighborhood": "Kadıköy",
+    "address": "Moda Caddesi No:5",
+    "phone": "+90 216 987 65 43",
+    "website": "https://anadolukebap.com",
+    "categories": ["Türk Mutfağı", "Aile Dostu"],
+    "rating": 4.5,
+    "images": ["https://example.com/image2.jpg"]
+  },
+  {
+    "_id": "3",
+    "name": "Burger Express",
+    "neighborhood": "Taksim",
+    "address": "İstiklal Caddesi No:12",
+    "phone": "+90 212 111 22 33",
+    "website": "https://burgerexpress.com",
+    "categories": ["Fast Food"],
+    "rating": 4.0,
+    "images": ["https://example.com/image3.jpg"]
+  },
+  {
+    "_id": "4",
+    "name": "La Pizza",
+    "neighborhood": "Beşiktaş",
+    "address": "Abbasağa Caddesi No:8",
+    "phone": "+90 212 222 33 44",
+    "website": "https://lapizza.com",
+    "categories": ["Pizza & İtalyan"],
+    "rating": 4.3,
+    "images": ["https://example.com/image4.jpg"]
+  },
+  {
+    "_id": "5",
+    "name": "Morning Brunch",
+    "neighborhood": "Nişantaşı",
+    "address": "Valikonağı Caddesi No:3",
+    "phone": "+90 212 333 44 55",
+    "website": "https://morningbrunch.com",
+    "categories": ["Kahvaltı & Brunch"],
+    "rating": 4.6,
+    "images": ["https://example.com/image5.jpg"]
+  },
+  {
+    "_id": "6",
+    "name": "Coffee & Cake",
+    "neighborhood": "Kadıköy",
+    "address": "Bahariye Caddesi No:6",
+    "phone": "+90 216 444 55 66",
+    "website": "https://coffeeandcake.com",
+    "categories": ["Kahve & Kafe"],
+    "rating": 4.4,
+    "images": ["https://example.com/image6.jpg"]
+  },
+  {
+    "_id": "7",
+    "name": "Sweet Heaven",
+    "neighborhood": "Beşiktaş",
+    "address": "Ortaköy Caddesi No:7",
+    "phone": "+90 212 555 66 77",
+    "website": "https://sweetheaven.com",
+    "categories": ["Tatlı & Pastane"],
+    "rating": 4.7,
+    "images": ["https://example.com/image7.jpg"]
+  },
+  {
+    "_id": "8",
+    "name": "Sushi Tokyo",
+    "neighborhood": "Levent",
+    "address": "Cemal Reşit Rey Sokak No:4",
+    "phone": "+90 212 666 77 88",
+    "website": "https://sushitokyo.com",
+    "categories": ["Uzak Doğu Mutfağı"],
+    "rating": 4.5,
+    "images": ["https://example.com/image8.jpg"]
+  },
+  {
+    "_id": "9",
+    "name": "Green Vegan",
+    "neighborhood": "Kadıköy",
+    "address": "Sahilyolu No:9",
+    "phone": "+90 216 777 88 99",
+    "website": "https://greenvegan.com",
+    "categories": ["Vegan & Sağlıklı"],
+    "rating": 4.4,
+    "images": ["https://example.com/image9.jpg"]
+  },
+  {
+    "_id": "10",
+    "name": "Seafood Palace",
+    "neighborhood": "Karaköy",
+    "address": "Karaköy Sahil Sokak No:1",
+    "phone": "+90 212 888 99 00",
+    "website": "https://seafoodpalace.com",
+    "categories": ["Deniz Ürünleri & Balık", "Manzaralı"],
+    "rating": 4.6,
+    "images": ["https://example.com/image10.jpg"]
+  }
+]
